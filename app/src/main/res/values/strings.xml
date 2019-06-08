@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tick Tock</string>
+    <string-array name = "reminder_array">
+        <item>Normal</item>
+        <item>Important</item>
+        <item>Urgent</item>
+    </string-array>
+</resources>
